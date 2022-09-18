@@ -1,8 +1,8 @@
 # Hello!
 
-<img src="https://i.imgur.com/mSr9J0P.png"/> Website: [kahu.tk](https://kahu.tk)
+<img src="https://i.imgur.com/mSr9J0P.png"/> Website: [kada.ga](http://kada.ga)
 
-<img src="https://i.imgur.com/5W0MqmT.png"/> Twitter: [@Ka_upkah](https://twitter.com/Ka_upkah)
+<img src="https://i.imgur.com/5W0MqmT.png"/> Twitter: [@Kadaga_](https://twitter.com/Kadaga_)
 
 <img src="https://i.imgur.com/ySaHynP.png"/> Shop (T-shirts, cases, stickers, etc.): [upkah.redbubble.com](https://upkah.redbubble.com)
 
