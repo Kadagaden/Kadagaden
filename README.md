@@ -1,13 +1,15 @@
 # Hello!
 
-<img src="https://i.imgur.com/mSr9J0P.png"/> Website: [kada.ga](http://kada.ga)
+I'm Kadaga. I'm a freelance designer/artist and an open source software contributor.
 
-<img src="https://i.imgur.com/5W0MqmT.png"/> Twitter: [@Kadaga_](https://twitter.com/Kadaga_)
+- My website/portfolio: [kada.ga](https://kada.ga)
+- Follow me on Twitter: [@Kadaga_](https://twitter.com/Kadaga_)
+- Follow me on Instagram: [kadagainsta](https://www.instagram.com/kadagainsta)
 
-# Shops (T-shirts, hoodies, stickers and other merch):
-<img src="https://i.imgur.com/ySaHynP.png"/> [upkah.redbubble.com](https://upkah.redbubble.com)
-
-<img src="https://i.imgur.com/ySaHynP.png"/> [teepublic.com/user/kadaga](https://www.teepublic.com/user/kadaga)
+# Shops (Prints, T-shirts, hoodies, stickers and other merch):
+- 👕 Shop: [upkah.redbubble.com](https://upkah.redbubble.com)
+- 👕 Shop: [teepublic.com/user/kadaga](https://www.teepublic.com/user/kadaga)
+- 🖼 Shop: [inprnt.com/gallery/kadaga](https://inprnt.com/gallery/kadaga)
 
 # Donate
 ### If you like what I do and you'd like to support me: [donate links](http://kada.ga/donate)
