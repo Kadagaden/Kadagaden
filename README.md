@@ -14,5 +14,5 @@ If you like what I do and you'd like to support me: [imkadaga.github.io/donate](
 # Stats <img src="https://i.imgur.com/K6ZW3T3.png"/>
 
 <a href="https://github.com/ImKadaga">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ka-hu&show_icons=true&include_all_commits=false&line_height=33&theme=graywhite" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ImKadaga&show_icons=true&include_all_commits=false&line_height=33&theme=graywhite" />
 </a>
