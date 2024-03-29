@@ -1,6 +1,6 @@
 # Hello!
 
-I'm Kadaga. I'm a freelance designer/artist and open source software contributor.
+I'm Kadaga. I'm a graphic designer/artist turned into indie game dev.
 
 - My website/portfolio: [imkadaga.github.io](https://imkadaga.github.io)
 - Follow me on Twitter: [@Kadaga_](https://twitter.com/Kadaga_)
