@@ -3,9 +3,10 @@
 I'm Kadagaden. I'm a graphic designer/artist turned into indie game dev.
 
 - My website/portfolio: [kadagaden.github.io](https://kadagaden.github.io)
-- Follow me on Twitter: [@Kadagaden](https://twitter.com/Kadagaden)
+- Follow me on X (Twitter): [@Kadagaden](https://twitter.com/Kadagaden)
+- Follow me on Bluesky: [@kadagaden.bsky.social](https://bsky.app/profile/kadagaden.bsky.social)
 - Follow me on Instagram: [Kadagaden](https://www.instagram.com/Kadagaden)
-- Shop (Art prints, T-shirts, hoodies, stickers and other merch): [kadagaden.github.io/shop](https://kadagaden.github.io/shop)
+- Shop (Art prints, T-shirts, hoodies, stickers, and other merch): [kadagaden.github.io/shop](https://kadagaden.github.io/shop)
 
 # Donate
 
