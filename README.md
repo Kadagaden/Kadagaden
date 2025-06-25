@@ -6,7 +6,7 @@ I'm Kadagaden. I'm a graphic designer/artist turned into an indie game dev.
 - Follow me on X (Twitter): [@Kadagaden](https://x.com/Kadagaden)
 - Follow me on Bluesky: [@kadagaden.bsky.social](https://bsky.app/profile/kadagaden.bsky.social)
 - Follow me on Instagram: [Kadagaden](https://www.instagram.com/Kadagaden)
-- Follow me on Youtube: [@Kadagaden]([https://www.instagram.com/Kadagaden](https://www.youtube.com/@kadagaden))
+- Follow me on YouTube: [@Kadagaden](https://www.youtube.com/@kadagaden)
 - Shop (Art prints, T-shirts, hoodies, stickers, and other merch): [kadagaden.github.io/shop](https://kadagaden.github.io/shop)
 
 # Donate
